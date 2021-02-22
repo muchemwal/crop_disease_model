@@ -1,5 +1,5 @@
 
-![logo](images/logo.png)
+![logo](images/rsz_1logo.png)
 
 
 # Model Card for Crop Disease Classifier
