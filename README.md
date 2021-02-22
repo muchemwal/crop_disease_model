@@ -1,5 +1,5 @@
 
-
+![logo](images/logo.png)
 
 
 # Model Card for Crop Disease Classifier
