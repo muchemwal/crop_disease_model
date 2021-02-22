@@ -11,9 +11,9 @@ This is a wide and deep Keras model which aims to classify crop disease In this 
 
 ### Version
 
-name: v0.1  
+**name**: v0.1  
 
-date: 21/02/2021  
+**date**: 21/02/2021  
 
 ### Owners
 
