@@ -42,7 +42,7 @@ Photo(s)
 
 ### Output Format
 
-For each classification:, classification and % confidence
+**For each classification**:, classification and % confidence
 
 
 ## Considerations
@@ -61,13 +61,15 @@ For each classification:, classification and % confidence
 
 ### Limitations
 
-* This model is not able to classify images of other crop classes.
+* **Image Size**: Depending on image resolution, leaves that are distant from the camera (a pupillary distance of < 10px)might not be detected. Not designed for estimating the count of a leaves.Leaves greater than 90% of image height or width might not be detected.
+* **Image Orientation**: Leaves that are positioned away from the camera (pan > 90°, roll > 45°, or tilt > 45°) might not be detected.
+* **Lighting**: Poorly illuminated/blured leaves might not be detected.
 
 
 ### Ethical Considerations
 
-* Risk: While distinguishing between crop disease for {} is generally agreed to be a benign application of machine learning, harmful results can occur when the model attempts to classify images that don’t contain {} 
-  * Mitigation Strategy: Avoid application on non {} images.
+* **Risk**: While distinguishing between crop disease for {} is generally agreed to be a benign application of machine learning, harmful results can occur when the model attempts to classify images that don’t contain {} 
+  * **Mitigation Strategy**: Avoid application on non {} images.
 
 
 ## Graphics
