@@ -60,7 +60,7 @@ Photo(s)
 
 ### Limitations
 
-| **Image Size** | **Image Orientation** | **Lighting** |
+| **Lighting** | **Image Orientation** | **Image Size** |
 | --- | --- | --- |
 | ![size](images/bblur.JPG) | ![orientation](images/oorient.JPG) | ![blur](images/ssize.JPG) |
 | Poorly illuminated/blured leaves might not be detected. | Leaves that are positioned away from the camera (pan > 90°, roll > 45°, or tilt > 45°)  | Depending on image resolution, leaves that are distant from the camera
