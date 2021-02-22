@@ -61,7 +61,7 @@ Photo(s)
 | **Image Size** | **Image Orientation** | **Lighting** |
 | --- | --- | --- |
 | ![size](images/bblur.JPG) | ![orientation](images/oorient.JPG) | ![blur](images/ssize.JPG) |
-| Poorly illuminated/blured leaves might not be detected. | Leaves that are positioned away from the camera (pan > 90°, roll > 45°, or tilt > 45°) might not be detected. | Depending on image resolution, leaves that are distant from the camera
+| Poorly illuminated/blured leaves might not be detected. | Leaves that are positioned away from the camera (pan > 90°, roll > 45°, or tilt > 45°) might not be detected. | | | | Depending on image resolution, leaves that are distant from the camera
 (a pupillary distance of < 10px)might not be detected. Not designed for
 estimating the count of a leaves.Leaves greater than 90% of image height
 or width might not be detected. |
