@@ -77,7 +77,7 @@ For each classification:, classification and % confidence
 This graph displays the Training and Validation Accuracy for the number of epochs
   
 
-
+![accuracy](images/accuracy.JPG)
 
 <img src="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAABIAAAAH4CAYAAAAy4ZZRAAAAOXRFWHRTb2Z0d2FyZQBNYXRwbG90
 bGliIHZlcnNpb24zLjMuMiwgaHR0cHM6Ly9tYXRwbG90bGliLm9yZy8vihELAAAACXBIWXMAAAsT
@@ -862,6 +862,8 @@ This graph displays a sample model prediction on a validation dataset with the p
   
 
 Model Results
+
+![accuracy](images/eval.JPG)
 
 <img src="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAAbAAAAEgCAYAAADVKCZpAAAAOXRFWHRTb2Z0d2FyZQBNYXRwbG90
 bGliIHZlcnNpb24zLjMuMiwgaHR0cHM6Ly9tYXRwbG90bGliLm9yZy8vihELAAAACXBIWXMAAAsT
