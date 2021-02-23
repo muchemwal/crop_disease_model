@@ -1,5 +1,11 @@
 # Data Science Ethics Checklist
 
+## Installation 
+```$ pip install deon or conda install deon -c conda-forge```
+
+## Usage
+```$ deon -o ETHICS.md```
+
 [![Deon badge](https://img.shields.io/badge/ethics%20checklist-deon-brightgreen.svg?style=popout-square)](http://deon.drivendata.org/)
 
 ## A. Data Collection
