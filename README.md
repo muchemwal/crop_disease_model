@@ -104,7 +104,9 @@ Photo(s)
 
 * This dataset that this model was trained on was originally created to support a machine learning based mobile for farmers to predict crop diseases using a TF ML algorithm.
 
+
 ### Limitations
+
 
 | **Lighting** | **Image Orientation** | **Image Size** |
 | --- | --- | --- |
