@@ -117,10 +117,12 @@ Photo(s)
 | | |or width might not be detected. |
 
 .
-.
-.
+
 .
 
+.
+
+.
 
 
 ### Ethical Considerations
