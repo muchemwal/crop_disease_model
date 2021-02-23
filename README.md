@@ -114,6 +114,9 @@ Photo(s)
 | | |estimating the count of a leaves.Leaves greater than 90% of image height
 | | |or width might not be detected. |
 
+.
+.
+.
 ### Ethical Considerations
 
 * **Risk**: While distinguishing between crop disease for {} is generally agreed to be a benign application of machine learning, harmful results can occur when the model attempts to classify images that don’t contain {} . For the full list of ethical considerations refer to: https://github.com/muchemwal/crop_disease_model/blob/main/ETHICS.md
