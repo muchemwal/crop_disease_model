@@ -7,7 +7,44 @@
 ## Model Details
 
 ### Overview
-This is a wide and deep Keras model which aims to classify crop disease In this Model Card, you can review quantitative components of the model’s performance and data, as well as information about the model’s intended uses, limitations, and ethical considerations. 
+This is a wide and deep Keras model which aims to classify crop disease In this Model Card, you can review quantitative components of the model’s performance and data, as well as information about the model’s intended uses, limitations, and ethical considerations. The model is able to classify the crops and associated disease below:
+
+{
+  **"Apple"**: [
+    "Apple_scab", "Black_rot", "Cedar_apple_rust"
+  ],
+  
+  **"Cherry"**: "(including_sour)___Powdery_mildew",
+  
+  **"Corn_(maize)"**: [
+    "Gray_leaf_spot", "Common_rust_", "Northern_Leaf_Blight"
+  ],
+  
+  **"Grape"**: [
+    "Black_rot", "Esca_(Black_Measles)", "Leaf_blight_(Isariopsis_Leaf_Spot)"
+  ],
+  
+  **"Orange"**: "Haunglongbing_(Citrus_greening)",
+  
+  **"Peach"**: "Bacterial_spot",
+  
+  **"Pepper"**: "bell_Bacterial_spot",
+  
+  **"Potato"**: [
+    "Early_blight","Late_blight"
+  ],
+  
+  **"Squash"**: "Powdery_mildew",
+  
+  **"Strawberry"**: [
+    "Leaf_scorch","Strawberry_healthy"
+  ],
+  
+  **"Tomato"**: [
+    "Bacterial_spot","Early_blight", "Late_blight", "Leaf_Mold", "Septoria_leaf_spot", "Spider_mites Two-spotted_spider_mite",
+	"Target_Spot", "Tomato_Yellow_Leaf_Curl_Virus", "Tomato_mosaic_virus"
+  ]
+}
 
 ### Version
 
